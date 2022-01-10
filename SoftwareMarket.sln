@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftwareMarket.Core", "SoftwareMarket.Core\SoftwareMarket.Core.csproj", "{8085B44B-1B34-4124-AE74-B173C3D79276}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftwareMarket.App", "SoftwareMarket.App\SoftwareMarket.App.csproj", "{7FC87882-A01D-43B6-B4E7-30AB91F75510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftwareMarket.Infrastructure", "SoftwareMarket.Infrastructure\SoftwareMarket.Infrastructure.csproj", "{C6EC64EE-FAE7-4BA6-9615-F1B87E46A8DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8085B44B-1B34-4124-AE74-B173C3D79276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8085B44B-1B34-4124-AE74-B173C3D79276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8085B44B-1B34-4124-AE74-B173C3D79276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8085B44B-1B34-4124-AE74-B173C3D79276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FC87882-A01D-43B6-B4E7-30AB91F75510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC87882-A01D-43B6-B4E7-30AB91F75510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC87882-A01D-43B6-B4E7-30AB91F75510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC87882-A01D-43B6-B4E7-30AB91F75510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6EC64EE-FAE7-4BA6-9615-F1B87E46A8DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6EC64EE-FAE7-4BA6-9615-F1B87E46A8DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6EC64EE-FAE7-4BA6-9615-F1B87E46A8DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6EC64EE-FAE7-4BA6-9615-F1B87E46A8DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
